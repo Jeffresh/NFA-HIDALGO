@@ -1,2 +1,5 @@
-# NFA-HIDALGO
-Design a NFA to accept words composed by the letters in "HIDALGO", in any order, with a maximum of: two A's, one D, and one L. It can have any number of H's, I's, G's and, O's.
+# Non Deterministic finitic automata: HIDALGO
+
+A program that counts from an input text all words composed by letters in "HIDALGO", with a maximum of two A's, one D, and one L, and any number of the other letters. Implemented using the table method.
+
+The text to be used as an input is "El Quijote", which is provided.
